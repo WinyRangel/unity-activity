@@ -23,3 +23,4 @@ A continuación, puedes acceder a las lecciones realizadas hasta ahora:
 
 - [Captura002](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/lecci%C3%B3n002.pdf)
 - [Captura003](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/2D%20guia%20Sprites.pdf)
+- [Captura003](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/2D%20guia%20Sprites%20Collider.pdf)
