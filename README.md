@@ -18,9 +18,11 @@ Este repositorio actúa como un registro de todas las lecciones y prácticas que
 A continuación, puedes acceder a las lecciones realizadas hasta ahora:
 - [Leccion001](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/leccion002.unitypackage)
 - [Lección002](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/leccion001.unitypackage)
+- [Leccion003](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/parte03.unitypackage)
 - [PlayerAnimation2D](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/2D%20Player%20Animation.unitypackage)
 ## Capturas 
 
 - [Captura002](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/lecci%C3%B3n002.pdf)
 - [Tutorial01](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/Tutorial%2001.pdf)
 - [Tutorial02](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/2D%20guia%20Sprites%20Collider.pdf)
+- [Tutorial03](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/Tutorial03.pdf)
