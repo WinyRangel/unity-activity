@@ -19,6 +19,9 @@ A continuación, puedes acceder a las lecciones realizadas hasta ahora:
 - [Leccion001](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/leccion002.unitypackage)
 - [Lección002](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/leccion001.unitypackage)
 - [Leccion003](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/parte03.unitypackage)
+- [Leccion004](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/leccion004.unitypackage)
+- [Leccion005](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/leccion005.unitypackage)
+- [Leccion006](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/leccion006.unitypackage)
 - [PlayerAnimation2D](https://github.com/WinyRangel/unity-activity/blob/main/Lecciones/2D%20Player%20Animation.unitypackage)
 ## Capturas 
 
@@ -26,3 +29,6 @@ A continuación, puedes acceder a las lecciones realizadas hasta ahora:
 - [Tutorial01](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/Tutorial%2001.pdf)
 - [Tutorial02](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/2D%20guia%20Sprites%20Collider.pdf)
 - [Tutorial03](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/Tutorial03.pdf)
+- [Tutorial04](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/Tutorial04.pdf)
+- [Tutorial05](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/Tutorial05.pdf)
+- [Tutorial06](https://github.com/WinyRangel/unity-activity/blob/main/Capturas/Tutorial06.pdf)
